@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Adherence</string>
+
+    <string name="title_section1">Today</string>
+    <string name="title_section2">Medication</string>
+    <string name="title_section3">Calendar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="logout">logout</string>
+    <string name="update">update</string>
+    <string name="calendar">calendar</string>
+    <string name="action_settings">Settings</string>
+    <string name="version_heading">Adherence Pill </string>
+    <string name="website_docs_display">http://adherencepillproject.parseapp.com/login.html</string>
+
+    <string name="prev">prev</string>
+    <string name="next">next</string>
+</resources>

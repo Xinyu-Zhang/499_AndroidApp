@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Coconut/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_ae2f7b756ab90d508d69825b93c12644b56dc4d5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_657f5d5516c216b0881b31ea2ebcb26d558d06f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_5eea80663abe5f0748c9c15da30e6b29debdbd6e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/Desktop/right version/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.0_10306a8031a159a56895417d013783d4d00de8cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/Desktop/right version/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5b8f1ff4667ca1e5984c28c24be97b0f699c2204">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ed438cf6be16bfbfe16b8ce6ac6ce2eabf422778/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/Desktop/right version/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_0bbf23b492d7d9709e93187f4f991db26ee740f9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/Desktop/right version/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_8bca258055aeceb1f4d11290ad2f4276c0eb388d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/Desktop/right version/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_3c2b73baaaded6825b2ce6487e119a70190cd685/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_ae6a9faf9764dd62d63c125ac5e6c5aa4d8d598f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/Desktop/right version/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_ac909bfc35f699d67197e1ac58bdccc53feb503b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Coconut/Desktop/right version/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="558dd2f73cecaea051d939b9b341dc008170a6e4">
+        <dex dex="/Users/Coconut/Desktop/right version/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fdb05607e5055b69f016a4d603c9049e7656c665/classes.dex" />
+    </item>
+
+</items>
